@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently Software Engineer Intern on [Kalbonyan Elmarssoss](https://github.com/KalbonyanElmarsos/Kalbonyan-Elmarsos)
 
-- 🌱 I’m currently learning **React js , Node js**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-saber-418741214/](https://www.linkedin.com/in/mohamed-saber-418741214/)
 
-- 💬 Ask me about **react , node , Laravel**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **mohamed.saber@edu.uiz.ac.ma**
 
